@@ -5,6 +5,13 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ https://discord.gg/vkAGZqfH ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.sumant3021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumantdeshmukh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssd9890880131@gmail.com) 
 
+**✍️ My Blog & Writings**
+
+I believe the best way to learn is to teach. I write about my experiences, lab setups, and what I'm learning from platforms like TryHackMe and Hack The Box.
+
+* **My First Post:** [My Cybersecurity Journey Begins: Setting Up My Lab](https://sumant9.hashnode.dev/how-i-started-learning-cybersecurity-with-hack-the-box-and-tryhackme)
+You can find all my articles on my **(https://sumant9.hashnode.dev/)**.
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
@@ -15,12 +22,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**✍️ My Blog & Writings**
 
-I believe the best way to learn is to teach. I write about my experiences, lab setups, and what I'm learning from platforms like TryHackMe and Hack The Box.
-
-* **My First Post:** [My Cybersecurity Journey Begins: Setting Up My Lab](https://sumant9.hashnode.dev/how-i-started-learning-cybersecurity-with-hack-the-box-and-tryhackme)
-You can find all my articles on my **(https://sumant9.hashnode.dev/)**.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sd8738&icon=0&color=0)](https://visitcount.itsvg.in)
