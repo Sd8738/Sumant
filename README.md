@@ -15,6 +15,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+**✍️ My Blog & Writings**
+
+I believe the best way to learn is to teach. I write about my experiences, lab setups, and what I'm learning from platforms like TryHackMe and Hack The Box.
+
+* **My First Post:** [My Cybersecurity Journey Begins: Setting Up My Lab](https://sumant9.hashnode.dev/how-i-started-learning-cybersecurity-with-hack-the-box-and-tryhackme)
+You can find all my articles on my **(https://sumant9.hashnode.dev/)**.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sd8738&icon=0&color=0)](https://visitcount.itsvg.in)
 
