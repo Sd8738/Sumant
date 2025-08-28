@@ -1,36 +1,35 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I'm+Sumant+Deshmukh;Cybersecurity+Enthusiast+%F0%9F%94%92;Digital+Forensics+%26+IR+Specialist+%F0%9F%94%8E;Securing+the+Digital+Frontier...+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</div>
+## 👨‍💻 About Me  
 
-💫 About Me
-🎓 Student: Electronics and Computer Science undergraduate at Padmabhooshan Vasantraodada Patil Institute of Technology.
+Hello! I’m **Sumant Deshmukh**, a curious and passionate learner currently pursuing my **B.Tech. in Electronics and Computer Science** at  
+**Padmabhooshan Vasantraodada Patil Institute of Technology**.  
 
-🛡️ Specialization: Cybersecurity, with a deep passion for Digital Forensics and Incident Response (DFIR).
+From the very beginning of my academic journey, I have been fascinated by the world of **technology and security**. My curiosity about how systems work — and more importantly, how they can be protected — naturally led me to the field of **Cybersecurity**. Over time, I have developed a strong interest in **Digital Forensics** and **Incident Response (DFIR)**, where I enjoy exploring how evidence is uncovered, analyzed, and used to safeguard systems against threats.  
 
-👨‍💻 Experience: Currently applying my skills to real-world security challenges as an intern at Acmegrade.
+Currently, I am interning at **Acmegrade**, where I am getting the opportunity to apply my theoretical knowledge in real-world scenarios. This hands-on exposure is helping me build practical skills, sharpen my analytical mindset, and understand industry best practices in the security domain.  
 
-🏆 Hackathon: Competed in a hackathon organized by Productspace, tackling real-world challenges and collaborating in a competitive environment.
+I recently had the opportunity to participate in a **hackathon organized by The Product Space**, which gave me valuable experience in collaborative problem-solving, rapid prototyping, and thinking outside the box under time pressure. These experiences fuel my excitement to constantly keep learning, adapting, and growing in this fast-paced digital landscape.  
 
-🎯 Goal: Committed to continuous learning and seeking opportunities to contribute to projects that secure our digital infrastructure.
+Beyond academics, I am someone who thrives on **continuous learning** and believes in sharing knowledge with others. I enjoy diving deep into emerging technologies, writing technical blogs, and building projects that challenge my creativity and problem-solving abilities. My long-term vision is to contribute meaningfully to the field of cybersecurity, specializing in **threat detection, digital forensics, and security research**, while also mentoring others who want to step into this domain.  
 
-🌐 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/sumantdeshmukh" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="http://sumant.lovable.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://sumant9.hashnode.dev/" target="_blank">
-<img src="https://img.shields.io/badge/My_Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
-</a>
-<a href="https://discord.gg/vkAGZqfH" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://instagram.com/its.sumant3021" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:sumant9.cyber@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
+---
+
+## 🌐 Connect with Me  
+
+- 💼 **LinkedIn**: [linkedin.com/in/sumantdeshmukh](https://www.linkedin.com/in/sumantdeshmukh)  
+- 📧 **Email**: [sumant9.cyber@gmail.com](mailto:sumant9.cyber@gmail.com)  
+- 📷 **Instagram**: [@its.sumant3021](https://instagram.com/its.sumant3021)  
+- 💬 **Discord**: [Join me here](https://discord.gg/vkAGZqfH)  
+- 📝 **Portfolio**: [sumant.lovable.app](https://sumant.lovable.app)  
+- ✍️ **Blogs**: [sumant9.hashnode.dev](https://sumant9.hashnode.dev)  
+
+---
+
+## ⚡ Interests & Goals  
+
+- 🔐 Exploring **Cybersecurity** and **Ethical Hacking**  
+- 🔍 Deep diving into **Digital Forensics & Incident Response (DFIR)**  
+- 🖥️ Building projects that merge **Electronics & Computer Science**  
+- 📡 Learning about **Networks, Cloud Security, and AI in Security**  
+- 🌱 Growing every day through **internships, hackathons, and research**  
+
+---
